@@ -1,0 +1,9 @@
+numpy<2
+pandas
+matplotlib
+streamlit
+altair
+pybind11
+torch
+joblib
+scikit-learn
